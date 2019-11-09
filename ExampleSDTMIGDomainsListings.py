@@ -20,7 +20,7 @@
 
 import json, os, fnmatch, requests, getpass
 import pandas as pd
-import ExampleLibraryTools as lt
+import ADaMLibraryTools as lt
 import ExampleLibraryAccess as la
 import ExampleTestWriteDefXML as TestWriteODMXML
 
